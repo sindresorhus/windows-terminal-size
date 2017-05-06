@@ -18,7 +18,7 @@ $ term-size
 24
 ```
 
-Where `143` are number of columns and `24` are the number of rows.
+Where `143` are the number of columns and `24` are the number of rows.
 
 
 ## Build
@@ -32,7 +32,8 @@ $ build
 
 ## Related
 
-- [term-size](https://github.com/sindresorhus/term-size) - Get the terminal window size - cross-platform
+- [term-size](https://github.com/sindresorhus/term-size) - Get the terminal window size, cross-platform *(Uses this binary)*
+- [macos-term-size](https://github.com/sindresorhus/macos-term-size) - Get the terminal window size on macOS
 
 
 ## License
