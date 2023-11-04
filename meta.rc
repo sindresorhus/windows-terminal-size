@@ -10,10 +10,10 @@ PRODUCTVERSION VERSION
 			VALUE "CompanyName", "https://sindresorhus.com"
 			VALUE "FileDescription", "Get the terminal window size"
 			VALUE "FileVersion", VERSION_STR
-			VALUE "InternalName", "term-size"
+			VALUE "InternalName", "terminal-size"
 			VALUE "LegalCopyright", "MIT Licence © Sindre Sorhus"
-			VALUE "OriginalFilename", "term-size.exe"
-			VALUE "ProductName", "term-size"
+			VALUE "OriginalFilename", "terminal-size.exe"
+			VALUE "ProductName", "terminal-size"
 			VALUE "ProductVersion", VERSION_STR
 		}
 	}

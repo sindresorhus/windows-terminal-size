@@ -1,4 +1,4 @@
-# win-term-size
+# windows-terminal-size
 
 > Get the terminal window size on Windows
 
@@ -6,12 +6,12 @@ Works even when run [non-interactively](https://www.tldp.org/LDP/abs/html/intand
 
 ## Install
 
-[Download](https://github.com/sindresorhus/win-term-size/releases/latest) the binary and put it somewhere in your [`%path%`](https://stackoverflow.com/a/28778358/64949).
+[Download](https://github.com/sindresorhus/windows-terminal-size/releases/latest) the binary and put it somewhere in your [`%path%`](https://stackoverflow.com/a/28778358/64949).
 
 ## Usage
 
 ```
-$ term-size
+$ terminal-size
 143
 24
 ```
@@ -22,11 +22,11 @@ Where `143` are the number of columns and `24` are the number of rows.
 
 Install [`MinGW-w64`](https://sourceforge.net/projects/mingw-w64/) and run:
 
-```
-$ build
+```sh
+build
 ```
 
 ## Related
 
-- [term-size](https://github.com/sindresorhus/term-size) - Get the terminal window size, cross-platform *(Uses this binary)*
-- [macos-term-size](https://github.com/sindresorhus/macos-term-size) - Get the terminal window size on macOS
+- [terminal-size](https://github.com/sindresorhus/terminal-size) - Get the terminal window size, cross-platform
+- [macos-terminal-size](https://github.com/sindresorhus/macos-terminal-size) - Get the terminal window size on macOS
